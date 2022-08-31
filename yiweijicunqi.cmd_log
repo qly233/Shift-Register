@@ -1,0 +1,47 @@
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+xst -intstyle ise -ifn "D:/szdl/yiweijicunqi/yiweijicunqi.xst" -ofn "D:/szdl/yiweijicunqi/yiweijicunqi.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc yiweijicunqi.ucf -p xc7a100t-fgg484-2L yiweijicunqi.ngc yiweijicunqi.ngd  
+map -intstyle ise -p xc7a100t-fgg484-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o yiweijicunqi_map.ncd yiweijicunqi.ngd yiweijicunqi.pcf 
+par -w -intstyle ise -ol high -mt off yiweijicunqi_map.ncd yiweijicunqi.ncd yiweijicunqi.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml yiweijicunqi.twx yiweijicunqi.ncd -o yiweijicunqi.twr yiweijicunqi.pcf -ucf yiweijicunqi.ucf 
+bitgen -intstyle ise -f yiweijicunqi.ut yiweijicunqi.ncd 
